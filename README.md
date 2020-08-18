@@ -1,2 +1,2 @@
-# swb-ief
-Repository for sharing code and data for SWB-IEF project 
+# Please use the organizational repository
+https://github.com/swb-ief
